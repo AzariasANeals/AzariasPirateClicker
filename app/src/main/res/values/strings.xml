@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pirate App</string>
+    <string name="treasure_hunt_desc">Treasure Hunt!</string>
+    <string name="tap_treasure_desc">Tap to board ship!</string>
+    <string name="ship_desc">Tap to get map!</string>
+    <string name="map_desc">Tap map to find a key!</string>
+    <string name="key_desc">Keep tapping to open the chest!</string>
+    <string name="treasure_desc">Tap gold to start again!</string>
+    <string name="treasure_hunt">Treasure Hunt</string>
+    <string name="ship">Ship</string>
+    <string name="map">Map</string>
+    <string name="key">Key</string>
+    <string name="gold">Gold</string>
+</resources>
